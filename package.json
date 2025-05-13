@@ -1,0 +1,13 @@
+{
+  "name": "kiwify-downloader",
+  "version": "1.0.0",
+  "description": "Script to download Kiwify course videos and materials.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bruno F. Horn",
+  "license": "MIT",
+  "dependencies": {}
+}
