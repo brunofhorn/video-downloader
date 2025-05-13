@@ -6,9 +6,13 @@
   "type": "commonjs",
   "scripts": {
     "start": "node index.js",
-    "kiwify": "node kiwify.js"
+    "kiwify": "node kiwify.js",
+    "domestika": "node domestika.js"
   },
   "author": "Bruno F. Horn",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "puppeteer": "^24.8.2"
+  }
 }
